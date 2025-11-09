@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5f7ff"></stop>
+      <stop offset="50%" stop-color="#7ba6ff"></stop>
+      <stop offset="100%" stop-color="#ff9fd6"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#grad)"></rect>
+
+  <!-- Initials HV -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="26" fill="#1b2559">
+    HV
+  </text>
+</svg>
